@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SliderScreenDemo</string>
+
+    <!--For Slider Screen -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">The Family Tracker</string>
+    <string name="slide_1_desc">The Family Tracker App consists of two modules of users(Gardian,Members). The members are allowed to be tracked by
+    the gardian, gardian will see realtime location on google maps of their family members, Each family member will see only its own location
+    on google map</string>
+
+    <string name="slide_2_title">Gardian</string>
+    <string name="slide_2_desc">Login as gardian to track your family members anytime, anywhere.</string>
+
+    <string name="slide_3_title">Member</string>
+    <string name="slide_3_desc">Login to make sure you are tracked by gardian</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>
